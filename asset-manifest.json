@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hasnain-ansari-portfolio/static/css/main.f21deda0.css",
+    "main.js": "/Hasnain-ansari-portfolio/static/js/main.aca1f789.js",
+    "static/media/cv.pdf": "/Hasnain-ansari-portfolio/static/media/cv.6bf44a7c82cbb1b0fe7d.pdf",
+    "static/media/me-about.png": "/Hasnain-ansari-portfolio/static/media/me-about.8ebaf5bfdcccd9484b60.png",
+    "static/media/me.jpg": "/Hasnain-ansari-portfolio/static/media/me.bcd6f782fac7307d986b.jpg",
+    "static/media/p4.png": "/Hasnain-ansari-portfolio/static/media/p4.e71b099f9d188c9003b5.png",
+    "static/media/p2.png": "/Hasnain-ansari-portfolio/static/media/p2.b6e8909c1b356c6fe8f8.png",
+    "static/media/p6.png": "/Hasnain-ansari-portfolio/static/media/p6.5be524d5f606e8e11f0b.png",
+    "static/media/p3.png": "/Hasnain-ansari-portfolio/static/media/p3.44909ce1347c152255da.png",
+    "static/media/p1.png": "/Hasnain-ansari-portfolio/static/media/p1.e6c29f38b873b5945b63.png",
+    "static/media/p5.png": "/Hasnain-ansari-portfolio/static/media/p5.90229e94bd6233938ddc.png",
+    "index.html": "/Hasnain-ansari-portfolio/index.html",
+    "main.f21deda0.css.map": "/Hasnain-ansari-portfolio/static/css/main.f21deda0.css.map",
+    "main.aca1f789.js.map": "/Hasnain-ansari-portfolio/static/js/main.aca1f789.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f21deda0.css",
+    "static/js/main.aca1f789.js"
+  ]
+}
